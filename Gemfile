@@ -15,6 +15,8 @@ end
 
 gem 'devise'
 gem 'paperclip'
+gem 'jquery-turbolinks'
+gem 'masonry-rails'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
